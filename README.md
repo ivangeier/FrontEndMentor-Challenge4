@@ -25,7 +25,7 @@ Users should be able to:
 ![](./images/screenshot.png)
 ### Links
 
-- Live Site URL: [Check here]()
+- Live Site URL: [Link](https://zen-agnesi-c3c4f6.netlify.app)
 
 ### Built with
 
