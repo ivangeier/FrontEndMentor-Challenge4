@@ -224,7 +224,18 @@ body {
     }
 }
 
+@supports (-moz-appearance:none) {
+    @media (max-width: 1100px) {
+        
+        .card-image {
+            display: none;
+        }
 
+        .card-image .woman-img{
+            display: none;
+        }
+    }
+}
 
 .attribution { 
     font-size: 11px; 
